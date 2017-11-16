@@ -24,3 +24,8 @@ baseTable.draw()
 document.save(out)
 document.close()
 ```
+
+Don't forget
+```
+implementation 'com.tom_roush:pdfbox-android:1.8.9.1'
+```
